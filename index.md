@@ -4,7 +4,7 @@ title:
 ---
 
 
-{% marginfigure /assets/img/kyle_mahowald.png '' %}
+{% marginfigure assets/img/kyle_mahowald.png '' %}
 
 # Kyle Mahowald
 <a href="mailto:kylemaho@mit.edu"><span class="icon-mail"></span></a> <a href="mailto:kylemaho@mit.edu"> kylemaho@mit.edu  </a>   <a href="http://www.twitter.edu/kmahowald"><span class="icon-twitter"></span></a> [@kmahowald]("http://www.twitter.edu/kmahowald")
@@ -26,11 +26,11 @@ K. Mahowald, I. Dautriche, E. Gibson, S.T. Piantadosi. In revision. Word forms a
 
 I. Dautriche, K. Mahowald, E. Gibson, S.T. Piantadosi. In revision. Wordform similarity increases with semantic similarity: an analysis of 101 languages.
 
-{% marginfigure /assets/img/graph.png 'Mahowald, Dautriche, et al. (2015) shows that word forms are more clustered than expected by chance. In this plot, each point is a word, and a line is used to connect any two words that are one edit away in phonetic space. The real lexicon is more tightly clustered than the baseline models.' %}K. Mahowald, I. Dautriche*, E. Gibson, A. Christophe, S.T. Piantadosi. In revision. Lexical clustering in efficient language design.
+{% marginfigure assets/img/graph.png 'Mahowald, Dautriche, et al. (2015) shows that word forms are more clustered than expected by chance. In this plot, each point is a word, and a line is used to connect any two words that are one edit away in phonetic space. The real lexicon is more tightly clustered than the baseline models.' %}K. Mahowald, I. Dautriche*, E. Gibson, A. Christophe, S.T. Piantadosi. In revision. Lexical clustering in efficient language design.
 
-K. Mahowald, E. Fedorenko. In revision. [Reliable individual-level neural markers of highlevel language processing: A necessary precursor for relating neural variability to behavioral and genetic variability](/assets/pdf/bigmri_neurobio_2014.pdf).
+K. Mahowald, E. Fedorenko. In revision. [Reliable individual-level neural markers of highlevel language processing: A necessary precursor for relating neural variability to behavioral and genetic variability](assets/pdf/bigmri_neurobio_2014.pdf).
 
-{% marginfigure /assets/img/snap.png 'With SNAP Judgments, we show that small N experiments can be used to obtain quantitative linguistic data at low cost and with reliable results. This plot shows the distribution of effect sizes (which is large) for forced choice grammaticality judgments sampled from 100 examples in *Linguistic Inquiry*.' %}K. Mahowald, P. Graff, J. Hartman, and E. Gibson. Under second review. [SNAP Judgments: A Small N Acceptability Paradigm (SNAP) for Linguistic Acceptability Judgments](/assets/pdf/SNAP.pdf). 
+{% marginfigure assets/img/snap.png 'With SNAP Judgments, we show that small N experiments can be used to obtain quantitative linguistic data at low cost and with reliable results. This plot shows the distribution of effect sizes (which is large) for forced choice grammaticality judgments sampled from 100 examples in *Linguistic Inquiry*.' %}K. Mahowald, P. Graff, J. Hartman, and E. Gibson. Under second review. [SNAP Judgments: A Small N Acceptability Paradigm (SNAP) for Linguistic Acceptability Judgments](assets/pdf/SNAP.pdf). 
 
 I. Blank, E. Fedorenko, Z. Balewski, and K. Mahowald. Under second review. Syntactic processing is distributed across the language network. 
 
@@ -45,26 +45,26 @@ K. Mahowald, T.J. O’Donnell, and J.B. Tenenbaum. In prep. Quantifying availabi
 
 ## Published articles
 
-R. Futrell, K. Mahowald, E. Gibson. 2015. [Large-Scale Evidence of Dependency Length Minimization in 37 Languages](/assets/pdf/dep.pdf). *Proceedings of the National Academy of Sciences*. Published online before print August 3, 2015. doi: 10.1073/pnas.1502134112 {% sidenote 2 'See popular discussion in [Science Magazine](http://news.sciencemag.org/social-sciences/2015/08/all-languages-have-evolved-have-common) and on [Reddit](https://www.reddit.com/r/science/comments/3g0vpk/mit_claims_to_have_found_a_language_universal/)' %}{% marginfigure /assets/img/depling.png 'Futrell, Mahowald, Gibson (2015): The dependency lengths in natural languages are minimized relative to random baseline.' %}
+R. Futrell, K. Mahowald, E. Gibson. 2015. [Large-Scale Evidence of Dependency Length Minimization in 37 Languages](assets/pdf/dep.pdf). *Proceedings of the National Academy of Sciences*. Published online before print August 3, 2015. doi: 10.1073/pnas.1502134112 {% sidenote 2 'See popular discussion in [Science Magazine](http://news.sciencemag.org/social-sciences/2015/08/all-languages-have-evolved-have-common) and on [Reddit](https://www.reddit.com/r/science/comments/3g0vpk/mit_claims_to_have_found_a_language_universal/)' %}{% marginfigure assets/img/depling.png 'Futrell, Mahowald, Gibson (2015): The dependency lengths in natural languages are minimized relative to random baseline.' %}
 
 R. Singh, E. Fedorenko, K. Mahowald, E. Gibson. 2015. Presupposition accommodation is costly only in implausible contexts. *Cognitive Science*. Published online before print July, 2015. doi: 10.1111/cogs.12260
 
-E. Gibson, P. Jacobson, P. Graff, E. Fedorenko, K. Mahowald, S.T. Piantadosi. 2014. [A pragmatic account of complexity in definite Antecedent-Contained-Deletion relative clauses](/assets/pdf/gibsonetal_jsemantics.pdf). *Journal of Semantics*. Published online before print.
+E. Gibson, P. Jacobson, P. Graff, E. Fedorenko, K. Mahowald, S.T. Piantadosi. 2014. [A pragmatic account of complexity in definite Antecedent-Contained-Deletion relative clauses](assets/pdf/gibsonetal_jsemantics.pdf). *Journal of Semantics*. Published online before print.
 
-K. Mahowald and E. Gibson. 2013. [Short, frequent words are more likely to appear genetically related by chance](/assets/pdf/mahowald_pnas.pdf). Letter to *Proceedings of the National Academy of Sciences*.{% sidenote 3 'See original article by Pagel et al. [here](http://www.pnas.org/content/110/21/8471.abstract) and their reply [here](/assets/img/pagel_reply.pdf).'%}
+K. Mahowald and E. Gibson. 2013. [Short, frequent words are more likely to appear genetically related by chance](assets/pdf/mahowald_pnas.pdf). Letter to *Proceedings of the National Academy of Sciences*.{% sidenote 3 'See original article by Pagel et al. [here](http://www.pnas.org/content/110/21/8471.abstract) and their reply [here](assets/img/pagel_reply.pdf).'%}
 
-{% marginfigure /assets/img/info.png 'Mahowald et al. (2013): After a predictive context, people are more likely to use a shorter form of a word than after a neutral context.' %}K. Mahowald, E. Fedorenko, S.T. Piantadosi, and E. Gibson. 2013. [Info/information theory: speakers choose shorter words in predictive contexts](/assets/pdf/mahowald_info.pdf). *Cognition*, 126, 313-318.
+{% marginfigure assets/img/info.png 'Mahowald et al. (2013): After a predictive context, people are more likely to use a shorter form of a word than after a neutral context.' %}K. Mahowald, E. Fedorenko, S.T. Piantadosi, and E. Gibson. 2013. [Info/information theory: speakers choose shorter words in predictive contexts](assets/pdf/mahowald_info.pdf). *Cognition*, 126, 313-318.
 
-K. Mahowald. 2012. [A Naive Bayes Classifier for Shakespeare’s second person pronoun](/assets/pdf/mahowald_naive_bayes_shax.pdf). *Literary and Linguistic Computing*. 27 (1): 17-23. doi:10.1093/llc/fqr045
+K. Mahowald. 2012. [A Naive Bayes Classifier for Shakespeare’s second person pronoun](assets/pdf/mahowald_naive_bayes_shax.pdf). *Literary and Linguistic Computing*. 27 (1): 17-23. doi:10.1093/llc/fqr045
 
-K. Mahowald. 2010. [It may nat be: Chaucer, Derrida, and the Impossibility of the Gift](/assets/pdf/chaucer.pdf). *Studies in the Age of Chaucer*. 32:129-150.
+K. Mahowald. 2010. [It may nat be: Chaucer, Derrida, and the Impossibility of the Gift](assets/pdf/chaucer.pdf). *Studies in the Age of Chaucer*. 32:129-150.
 
 
 ## Conference Proceedings
 
-R. Futrell, K. Mahowald, E. Gibson. 2015. [Quantifying Word Order Freedom in Dependency Corpora](/assets/pdf/depling-conf.pdf). Proceedings of Depling 2015.
+R. Futrell, K. Mahowald, E. Gibson. 2015. [Quantifying Word Order Freedom in Dependency Corpora](assets/pdf/depling-conf.pdf). Proceedings of Depling 2015.
 
-K. Mahowald. 2011. [An LFG Account of Word Order Freezing](/assets/pdf/lfg11mahowald.pdf). In M. Butt and T. H. King, eds., Proceedings of the LFG11 Conference. Hong Kong: CSLI Publications: http://www-csli.stanford.edu/publications.
+K. Mahowald. 2011. [An LFG Account of Word Order Freezing](assets/pdf/lfg11mahowald.pdf). In M. Butt and T. H. King, eds., Proceedings of the LFG11 Conference. Hong Kong: CSLI Publications: http://www-csli.stanford.edu/publications.
 
 ## Refereed Presentations
 
