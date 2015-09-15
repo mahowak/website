@@ -28,7 +28,7 @@ I. Dautriche, K. Mahowald, E. Gibson, S.T. Piantadosi. In revision. Wordform sim
 
 {% marginfigure assets/img/graph.png 'Mahowald, Dautriche, et al. (2015) shows that word forms are more clustered than expected by chance. In this plot, each point is a word, and a line is used to connect any two words that are one edit away in phonetic space. The real lexicon is more tightly clustered than the baseline models.' %}K. Mahowald, I. Dautriche*, E. Gibson, A. Christophe, S.T. Piantadosi. In revision. Lexical clustering in efficient language design.
 
-K. Mahowald, E. Fedorenko. In revision. [Reliable individual-level neural markers of highlevel language processing: A necessary precursor for relating neural variability to behavioral and genetic variability](assets/pdf/bigmri_neurobio_2014.pdf).
+K. Mahowald, E. Fedorenko. In revision. Reliable individual-level neural markers of highlevel language processing: A necessary precursor for relating neural variability to behavioral and genetic variability.
 
 {% marginfigure assets/img/snap.png 'With SNAP Judgments, we show that small N experiments can be used to obtain quantitative linguistic data at low cost and with reliable results. This plot shows the distribution of effect sizes (which is large) for forced choice grammaticality judgments sampled from 100 examples in *Linguistic Inquiry*.' %}K. Mahowald, P. Graff, J. Hartman, and E. Gibson. Under second review. [SNAP Judgments: A Small N Acceptability Paradigm (SNAP) for Linguistic Acceptability Judgments](assets/pdf/SNAP.pdf). 
 
@@ -40,7 +40,7 @@ E. Gibson, K. Mahowald, S.T. Piantadosi. In revision. A re-analysis and replicat
 
 K. Mahowald, P. Isola, E. Fedorenko, A. Oliva, E. Gibson. In prep. An information-theoretic account of word memorability.
 
-K. Mahowald, T.J. O’Donnell, and J.B. Tenenbaum. In prep. [Quantifying availability through linguistic productivity](assets/pdf/hangman_8_3_14.pdf).
+K. Mahowald, T.J. O’Donnell, and J.B. Tenenbaum. In prep. [Quantifying availability through linguistic productivity](assets/pdf/hangman_8_13_14.pdf).
 
 
 ### Published articles
