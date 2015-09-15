@@ -20,7 +20,7 @@ title:
 
 ## In-progress articles
 
-{% marginfigure /assets/img/meta_plot.png 'Mahowald et al. "A meta-analysis of Syntactic Priming" analyzed 71 syntactic priming papers and found a robust effect of syntactic priming that was greatly magnified by lexical boost. This plot shows model coefficients for various moderators of the priming effect.' %} K. Mahowald, A. James, R. Futrell, E. Gibson. Submitted. A meta-analysis of syntactic priming. 
+{% marginfigure assets/img/meta_plot.png 'Mahowald et al. "A meta-analysis of Syntactic Priming" analyzed 71 syntactic priming papers and found a robust effect of syntactic priming that was greatly magnified by lexical boost. This plot shows model coefficients for various moderators of the priming effect.' %} K. Mahowald, A. James, R. Futrell, E. Gibson. Submitted. A meta-analysis of syntactic priming. 
 
 K. Mahowald, I. Dautriche, E. Gibson, S.T. Piantadosi. In revision. Word forms are structured for efficient use. 
 
