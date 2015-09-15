@@ -1,3 +1,7 @@
+# To update:
+
+Run update.sh locally, run update_web.sh remotely in the website folder on the Athena server.
+
 # tufte-jekyll theme
 
 The *Tufte-Jekyll* theme is a natural extension of the work done by [Dave Leipmann](https://github.com/daveliepmann/tufte-css) on Github that created a CSS file that allows web writers to use the simple and elegant style employed by Edward Tufte in his published materials.
