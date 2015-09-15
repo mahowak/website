@@ -2,7 +2,7 @@
 layout: post
 title: 
 ---
-{% marginfigure assets/img/kyle_mahowald.png '' %}
+{% marginfigure assets/img/km.png '' %}
 
 <h1 class="content-listing-header sans">Kyle Mahowald</h1>
 <a href="mailto:kylemaho@mit.edu"> kylemaho@mit.edu  </a> 
@@ -45,13 +45,13 @@ K. Mahowald, T.J. O’Donnell, and J.B. Tenenbaum. In prep. [Quantifying availab
 
 ### Published articles
 
-R. Futrell, K. Mahowald, E. Gibson. 2015. [Large-Scale Evidence of Dependency Length Minimization in 37 Languages](assets/pdf/dep.pdf). *Proceedings of the National Academy of Sciences*. Published online before print August 3, 2015. doi: 10.1073/pnas.1502134112 {% sidenote 2 'See popular discussion in [Science Magazine](http://news.sciencemag.org/social-sciences/2015/08/all-languages-have-evolved-have-common) and on [Reddit](https://www.reddit.com/r/science/comments/3g0vpk/mit_claims_to_have_found_a_language_universal/)' %}{% marginfigure assets/img/depling.png 'Futrell, Mahowald, Gibson (2015): The dependency lengths in natural languages are minimized relative to random baseline.' %}
+R. Futrell, K. Mahowald, E. Gibson. 2015. [Large-Scale Evidence of Dependency Length Minimization in 37 Languages](assets/pdf/dep.pdf). *Proceedings of the National Academy of Sciences*. Published online before print August 3, 2015. doi: 10.1073/pnas.1502134112 {% sidenote 2 'See popular discussion in [Science Magazine](http://news.sciencemag.org/social-sciences/2015/08/all-languages-have-evolved-have-common) and on <br> [Reddit](https://www.reddit.com/r/science/comments/3g0vpk/mit_claims_to_have_found_a_language_universal/)' %}{% marginfigure assets/img/depling.png 'Futrell, Mahowald, Gibson (2015): The dependency lengths in natural languages are minimized relative to random baseline.' %}
 
 R. Singh, E. Fedorenko, K. Mahowald, E. Gibson. 2015. Presupposition accommodation is costly only in implausible contexts. *Cognitive Science*. Published online before print July, 2015. doi: 10.1111/cogs.12260
 
 E. Gibson, P. Jacobson, P. Graff, E. Fedorenko, K. Mahowald, S.T. Piantadosi. 2014. [A pragmatic account of complexity in definite Antecedent-Contained-Deletion relative clauses](assets/pdf/gibsonetal_jsemantics.pdf). *Journal of Semantics*. Published online before print.
 
-K. Mahowald and E. Gibson. 2013. [Short, frequent words are more likely to appear genetically related by chance](assets/pdf/mahowald_pnas.pdf). Letter to *Proceedings of the National Academy of Sciences*.{% sidenote 3 'See original article by Pagel et al. [here](http://www.pnas.org/content/110/21/8471.abstract) and their reply [here](assets/img/pagel_reply.pdf).'%}
+K. Mahowald and E. Gibson. 2013. [Short, frequent words are more likely to appear genetically related by chance](assets/pdf/mahowald_pnas.pdf). Letter to *Proceedings of the National Academy of Sciences*.{% sidenote 3 'See original article by Pagel et al. [here](http://www.pnas.org/content/110/21/8471.abstract) and their reply <br> [here](assets/img/pagel_reply.pdf).'%}
 
 {% marginfigure assets/img/info.png 'Mahowald et al. (2013): After a predictive context, people are more likely to use a shorter form of a word than after a neutral context.' %}K. Mahowald, E. Fedorenko, S.T. Piantadosi, and E. Gibson. 2013. [Info/information theory: speakers choose shorter words in predictive contexts](assets/pdf/mahowald_info.pdf). *Cognition*, 126, 313-318.
 
