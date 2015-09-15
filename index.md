@@ -6,19 +6,21 @@ title:
 
 {% marginfigure assets/img/km.png '' %}
 
-# Kyle Mahowald
-<a href="mailto:kylemaho@mit.edu"><span class="icon-mail"></span></a> <a href="mailto:kylemaho@mit.edu"> kylemaho@mit.edu  </a>   <a href="http://www.twitter.edu/kmahowald"><span class="icon-twitter"></span></a> [@kmahowald]("http://www.twitter.edu/kmahowald")
-[MIT Brain and Cognitive Sciences](http://bcs.mit.edu/)
+<h1 class="content-listing-header sans">Kyle Mahowald</h1>
+<a href="mailto:kylemaho@mit.edu"> kylemaho@mit.edu  </a> 
+<!--  
+ <a href="http://www.twitter.edu/kmahowald"><span class="icon-twitter"></span></a> [@kmahowald]("http://www.twitter.edu/kmahowald")
+ -->
 
-## About me
+### About me
 
-{% newthought 'Originally from Florida,'%} I am now a graduate student in [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's Brain and Cognitive Sciences department. Before that, I was a Marshall Scholar at Oxford University studying linguistics under the supervision of [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
+{% newthought 'Originally from Florida,'%} I am now a graduate student in [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
 
-## Research
+### Research
 
 {% newthought 'I am interested'%} in the structure of the lexicons of world languages (i.e., why we have the words we have instead of some other set of words), the relationship between communicative efficiency and natural language, historical English, language neuroimaging, literature, and the interplay between language and literature. I also have interests in quantitative methods in language research.
 
-## In-progress articles
+### In-progress articles
 
 {% marginfigure assets/img/meta_plot.png 'Mahowald et al. "A meta-analysis of Syntactic Priming" analyzed 71 syntactic priming papers and found a robust effect of syntactic priming that was greatly magnified by lexical boost. This plot shows model coefficients for various moderators of the priming effect.' %} K. Mahowald, A. James, R. Futrell, E. Gibson. Submitted. A meta-analysis of syntactic priming. 
 
@@ -43,7 +45,7 @@ K. Mahowald, P. Isola, E. Fedorenko, A. Oliva, E. Gibson. In prep. An informatio
 K. Mahowald, T.J. O’Donnell, and J.B. Tenenbaum. In prep. [Quantifying availability through linguistic productivity](assets/pdf/hangman_8_3_14.pdf).
 
 
-## Published articles
+### Published articles
 
 R. Futrell, K. Mahowald, E. Gibson. 2015. [Large-Scale Evidence of Dependency Length Minimization in 37 Languages](assets/pdf/dep.pdf). *Proceedings of the National Academy of Sciences*. Published online before print August 3, 2015. doi: 10.1073/pnas.1502134112 {% sidenote 2 'See popular discussion in [Science Magazine](http://news.sciencemag.org/social-sciences/2015/08/all-languages-have-evolved-have-common) and on [Reddit](https://www.reddit.com/r/science/comments/3g0vpk/mit_claims_to_have_found_a_language_universal/)' %}{% marginfigure assets/img/depling.png 'Futrell, Mahowald, Gibson (2015): The dependency lengths in natural languages are minimized relative to random baseline.' %}
 
@@ -60,13 +62,13 @@ K. Mahowald. 2012. [A Naive Bayes Classifier for Shakespeare’s second person p
 K. Mahowald. 2010. [It may nat be: Chaucer, Derrida, and the Impossibility of the Gift](assets/pdf/chaucer.pdf). *Studies in the Age of Chaucer*. 32:129-150.
 
 
-## Conference Proceedings
+### Conference Proceedings
 
 R. Futrell, K. Mahowald, E. Gibson. 2015. [Quantifying Word Order Freedom in Dependency Corpora](assets/pdf/depling-conf.pdf). Proceedings of Depling 2015.
 
 K. Mahowald. 2011. [An LFG Account of Word Order Freezing](assets/pdf/lfg11mahowald.pdf). In M. Butt and T. H. King, eds., Proceedings of the LFG11 Conference. Hong Kong: CSLI Publications: http://www-csli.stanford.edu/publications.
 
-## Refereed Presentations
+### Refereed Presentations
 
 K. Mahowald, I. Dautriche, E. Gibson, A. Christophe, E. Gibson. 2014. Efficient phonological clustering in the mental lexicon. Ninth International Conference on the Mental Lexicon. Niagara-on-the-Lake, Ontario, Canada. September 30-October 2, 2014.
 
@@ -78,7 +80,7 @@ K. Mahowald, P. Graff, J. Hartman, E. Gibson. 2014. SNAP Judgments: Small N Acce
 
 K. Mahowald. 2011. An LFG Account of Word Order Freezing. Sixteenth International LFG Conference. Hong Kong. July 16–19, 2011.
 
-## Refereed Posters
+### Refereed Posters
 
 K. Mahowald, M. Kline, E. Fedorenko, E. Gibson. 2015. [Informativity and efficient compression of sentences](assets/pdf/mahowald_inform_poster_CUNY2015). Annual CUNY Conference on Human Sentence Processing, CUNY 2015. Los Angeles, CA. March 19-21, 2014.
 
@@ -97,7 +99,7 @@ R. Futrell, K. Mahowald, S.T. Piantadosi, E. Gibson. Efficient Communication For
 K. Mahowald, S.T. Piantadosi, E. Gibson. 2013. [Lexical clustering in efficient language design](assets/pdf/lexy_poster1.pdf). 26th Annual CUNY Conference on Human Sentence Processing, CUNY 2013. Columbia, SC. March 22, 2013.
 
 
-## Collaborators
+### Collaborators
 
 [Ted Gibson](http://tedlab.mit.edu)
 [Evelina Fedorenko](http://web.mit.edu/evelina9/www/)
