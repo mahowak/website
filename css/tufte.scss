@@ -464,15 +464,14 @@ span.newthought {
 /* --- Icomoon icon fonts CSS --*/
 @font-face {
   font-family: 'icomoon';
-  src:url('/fonts/icomoon.eot?rgwlb8');
-  src:url('/fonts/icomoon.eot?#iefixrgwlb8') format('embedded-opentype'),
-    url('/fonts/icomoon.woff?rgwlb8') format('woff'),
-    url('/fonts/icomoon.ttf?rgwlb8') format('truetype'),
-    url('/fonts/icomoon.svg?rgwlb8#icomoon') format('svg');
-
+  src:url('../fonts/icomoon.eot?rgwlb8');
+  src:url('../fonts/icomoon.eot?#iefixrgwlb8') format('embedded-opentype'),
+    url('../fonts/icomoon.woff?rgwlb8') format('woff'),
+    url('../fonts/icomoon.ttf?rgwlb8') format('truetype'),
+    url('../fonts/icomoon.svg?rgwlb8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
-
-
 
 [class^="icon-"], [class*=" icon-"] {
   font-family: 'icomoon';
@@ -488,8 +487,6 @@ span.newthought {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-
 
 .icon-pencil:before {
   content: "\e600";
