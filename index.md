@@ -80,31 +80,32 @@ K. Mahowald. 2011. An LFG Account of Word Order Freezing. Sixteenth Internationa
 
 ## Refereed Posters
 
-K. Mahowald, M. Kline, E. Fedorenko, E. Gibson. 2015. Informativity and efficient compression of sentences. Annual CUNY Conference on Human Sentence Processing, CUNY 2015. Los Angeles, CA. March 19-21, 2014.
+K. Mahowald, M. Kline, E. Fedorenko, E. Gibson. 2015. [Informativity and efficient compression of sentences](assets/pdf/mahowald_inform_poster_CUNY2015). Annual CUNY Conference on Human Sentence Processing, CUNY 2015. Los Angeles, CA. March 19-21, 2014.
 
-K. Mahowald, S.T. Piantadosi, M. Alper, E. Gibson.. 2015. Lexical items are privileged slots for meaning. Annual CUNY Conference on Human Sentence Processing, CUNY 2015. Los Angeles, CA. March 19-21, 2014.
+K. Mahowald, S.T. Piantadosi, M. Alper, E. Gibson. 2015. [Lexical items are privileged slots for meaning](assets/pdf/word_learning_poster_CUNY2015). Annual CUNY Conference on Human Sentence Processing, CUNY 2015. Los Angeles, CA. March 19-21, 2014.
 
-R. Futrell, K. Mahowald, E. Gibson. 2014. CLIQS: Cross-Linguistic Investigations in Quantitative Syntax. AMLaP 2014 (Architectures and Mechanisms for Language Processing). Edinburgh, UK. September 3-6, 2014.
+R. Futrell, K. Mahowald, E. Gibson. 2014. [CLIQS: Cross-Linguistic Investigations in Quantitative Syntax](assets/pdf/cliqs.pdf). AMLaP 2014 (Architectures and Mechanisms for Language Processing). Edinburgh, UK. September 3-6, 2014.
 
-K. Mahowald, P. Isola, E. Fedorenko, A. Oliva, E. Gibson. 2014. An information-theoretic account of word memorability. AMLaP 2014 (Architectures and Mechanisms for Language Processing). Edinburgh, UK. September 3-6, 2014.
+K. Mahowald, P. Isola, E. Fedorenko, A. Oliva, E. Gibson. 2014. [An information-theoretic account of word memorability](assets/pdf/memory_amlap14.pdf). AMLaP 2014 (Architectures and Mechanisms for Language Processing). Edinburgh, UK. September 3-6, 2014.
 
-K. Mahowald, E. Fedorenko. Reliable individual-level neural markers of language activity. Neurobiology of Language 2014. Amsterdam. August 27-29, 2014.
+K. Mahowald, E. Fedorenko. [Reliable individual-level neural markers of language activity](assets/pdf/bigmri_neurobio_2014.pdf). Neurobiology of Language 2014. Amsterdam. August 27-29, 2014.
 
 E. Gibson, P. Jacobson, P. Graff, K. Mahowald, E. Fedorenko, S.T. Piantadosi. Pragmatic influences on the processing of ACD relative clauses. 27th Annual CUNY Conference on Human Sentence Processing, CUNY 2014. Columbus, OH. March 13-15, 2014.
 
 R. Futrell, K. Mahowald, S.T. Piantadosi, E. Gibson. Efficient Communication Forwards and Backwards. 27th Annual CUNY Conference on Human Sentence Processing, CUNY 2014. Columbus, OH. March 13-15, 2014.
 
-K. Mahowald, S.T. Piantadosi, E. Gibson. 2013. Lexical clustering in efficient language design. 26th Annual CUNY Conference on Human Sentence Processing, CUNY 2013. Columbia, SC. March 22, 2013.
+K. Mahowald, S.T. Piantadosi, E. Gibson. 2013. [Lexical clustering in efficient language design](assets/pdf/lexy_poster1.pdf). 26th Annual CUNY Conference on Human Sentence Processing, CUNY 2013. Columbia, SC. March 22, 2013.
 
-
+<!--
 ## Collaborators
 
-[Ted Gibson]()
-[Evelina Fedorenko]()
-[Steven T. Piantadosi]()
-[Joshua Tenenbaum]()
-[Timothy O'Donnell]()
-[Richard Futrell]()
-[Isabelle Dautriche]()
-[Ariel James]()
-[Phillip Isola]()
+[Ted Gibson](http://tedlab.mit.edu)
+[Evelina Fedorenko](http://web.mit.edu/evelina9/www/)
+[Steven T. Piantadosi](http://colala.bcs.rochester.edu)
+[Joshua Tenenbaum](http://cocosci.mit.edu/)
+[Timothy O'Donnell](http://web.mit.edu/timod/www/)
+[Richard Futrell](http://web.mit.edu/futrell/www/)
+[Isabelle Dautriche](http://www.lscp.net/persons/dautriche/)
+[Ariel James](http://www.psychology.illinois.edu/people/anjames2)
+[Phillip Isola](web.mit.edu/phillipi/)
+-->
