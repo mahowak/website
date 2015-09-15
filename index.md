@@ -6,7 +6,7 @@ title:
 
 {% marginfigure assets/img/kyle_mahowald.png '' %}
 
-# Kyle Mahowald
+# Kyle A. Mahowald
 <a href="mailto:kylemaho@mit.edu"><span class="icon-mail"></span></a> <a href="mailto:kylemaho@mit.edu"> kylemaho@mit.edu  </a>   <a href="http://www.twitter.edu/kmahowald"><span class="icon-twitter"></span></a> [@kmahowald]("http://www.twitter.edu/kmahowald")
 [MIT Brain and Cognitive Sciences](http://bcs.mit.edu/)
 
