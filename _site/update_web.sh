@@ -1,2 +1,2 @@
 git pull
-cp -r  ~/website/_site ~/www/.
+cp -r  ~/website/_site/* ~/www/.

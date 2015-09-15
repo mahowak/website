@@ -2,8 +2,6 @@
 layout: post
 title: 
 ---
-
-
 {% marginfigure assets/img/km.png '' %}
 
 <h1 class="content-listing-header sans">Kyle Mahowald</h1>
