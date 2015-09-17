@@ -92,7 +92,7 @@ E. Gibson, P. Jacobson, P. Graff, K. Mahowald, E. Fedorenko, S.T. Piantadosi. Pr
 
 R. Futrell, K. Mahowald, S.T. Piantadosi, E. Gibson. Efficient Communication Forwards and Backwards. 27th Annual CUNY Conference on Human Sentence Processing, CUNY 2014. Columbus, OH. March 13-15, 2014.
 
-K. Mahowald, S.T. Piantadosi, E. Gibson. 2013. [Lexical clustering in efficient language design](assets/pdf/lexy_poster1.pdf). 26th Annual CUNY Conference on Human Sentence Processing, CUNY 2013. Columbia, SC. March 22, 2013.
+K. Mahowald, S.T. Piantadosi, E. Gibson. 2013. [Lexical clustering in efficient language design](assets/pdf/lexy_poster1.pdf). 26th Annual CUNY Conference on Human Sentence Processing, CUNY 2013. Columbia, SC. March 22, 2013.{% marginfigure assets/img/wolfram.png 'Wolfram Alpha plot of the frequency of the name *Kyle* over time. It gives a good indication of when I was born and suggests that, in 50 years, Kyle will be a name we associate with older people.' %}
 
 
 ### Collaborators
