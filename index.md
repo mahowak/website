@@ -36,8 +36,6 @@ I. Blank, E. Fedorenko, Z. Balewski, and K. Mahowald. Under second review. Synta
 
 S.T. Piantadosi, K. Mahowald, C. Kidd, R. Futrell, E. Gibson. In revision. Lexical prescriptivism reduces communicative efficiency. 
 
-E. Gibson, K. Mahowald, S.T. Piantadosi. In revision. A re-analysis and replication attempt of Hackl, Koster-Hale, Varvoutis (2012). Journal of Semantics. 
-
 K. Mahowald, P. Isola, E. Fedorenko, A. Oliva, E. Gibson. In prep. An information-theoretic account of word memorability.
 
 K. Mahowald, T.J. O’Donnell, and J.B. Tenenbaum. In prep. [Quantifying availability through linguistic productivity](assets/pdf/hangman_8_13_14.pdf).
