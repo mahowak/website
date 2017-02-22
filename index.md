@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 
+title:
 ---
 {% marginfigure assets/img/km_3.png '' %}
 
 <h1 class="content-listing-header sans">Kyle Mahowald</h1>
-<a href="mailto:kylemaho@mit.edu"> kylemaho@mit.edu  </a> 
-<!--  
+<a href="mailto:kylemaho@mit.edu"> kylemaho@mit.edu  </a>
+<!--
  <a href="http://www.twitter.edu/kmahowald"><span class="icon-twitter"></span></a> [@kmahowald]("http://www.twitter.edu/kmahowald")
  -->
 
@@ -16,32 +16,23 @@ title:
 
 ### Research
 
-{% newthought 'I am interested'%} in the structure of the lexicons of world languages (i.e., why we have the words we have instead of some other set of words), the relationship between communicative efficiency and natural language, historical English, language neuroimaging, literature, and the interplay between language and literature. I also have interests in quantitative methods in language research.
-
-### In-progress articles
-
-{% marginfigure assets/img/meta_plot.png 'Mahowald et al. "A meta-analysis of Syntactic Priming" analyzed 71 syntactic priming papers and found a robust effect of syntactic priming that was greatly magnified by lexical boost. This plot shows model coefficients for various moderators of the priming effect.' %} K. Mahowald, A. James, R. Futrell, E. Gibson. Submitted. [A meta-analysis of syntactic priming](assets/pdf/meta.pdf). 
-
-K. Mahowald, I. Dautriche, E. Gibson, S.T. Piantadosi. In revision. Word forms are structured for efficient use. 
-
-I. Dautriche, K. Mahowald, E. Gibson, S.T. Piantadosi. In revision. Wordform similarity increases with semantic similarity: an analysis of 101 languages.
-
-{% marginfigure assets/img/graph.png 'Mahowald, Dautriche, et al. (2015) shows that word forms are more clustered than expected by chance. In this plot, each point is a word, and a line is used to connect any two words that are one edit away in phonetic space. The real lexicon is more tightly clustered than the baseline models.' %}K. Mahowald, I. Dautriche*, E. Gibson, A. Christophe, S.T. Piantadosi. In revision. Lexical clustering in efficient language design.
-
-K. Mahowald, E. Fedorenko. In revision. Reliable individual-level neural markers of highlevel language processing: A necessary precursor for relating neural variability to behavioral and genetic variability.
-
-{% marginfigure assets/img/snap.png 'With SNAP Judgments, we show that small N experiments can be used to obtain quantitative linguistic data at low cost and with reliable results. This plot shows the distribution of effect sizes (which is large) for forced choice grammaticality judgments sampled from 100 examples in *Linguistic Inquiry*.' %}K. Mahowald, P. Graff, J. Hartman, and E. Gibson. Under second review. [SNAP Judgments: A Small N Acceptability Paradigm (SNAP) for Linguistic Acceptability Judgments](assets/pdf/SNAP.pdf). 
-
-I. Blank, E. Fedorenko, Z. Balewski, and K. Mahowald. Under second review. Syntactic processing is distributed across the language network. 
-
-S.T. Piantadosi, K. Mahowald, C. Kidd, R. Futrell, E. Gibson. In revision. Lexical prescriptivism reduces communicative efficiency. 
-
-K. Mahowald, P. Isola, E. Fedorenko, A. Oliva, E. Gibson. In prep. An information-theoretic account of word memorability.
-
-K. Mahowald, T.J. O’Donnell, and J.B. Tenenbaum. In prep. [Quantifying availability through linguistic productivity](assets/pdf/hangman_8_13_14.pdf).
-
+{% newthought 'I am interested'%} in the structure of the lexicons of world languages (i.e., why we have the words we have instead of some other set of words), the relationship between communicative efficiency and natural language, historical English, language neuroimaging, literature, and the interplay between language and literature. I also have interests in quantitative methods in language research and psychology more generally.
 
 ### Published articles
+
+K. Mahowald*, I. Dautriche*, E. Gibson, S.T. Piantadosi. In press. Words cluster phonetically beyond phonotactic regularities. *Cognition*.
+
+I. Dautriche, K. Mahowald, E. Gibson, S.T. Piantadosi. 2016. [Wordform
+similarity increases with semantic similarity: an analysis of 100
+languages](http://tedlab.mit.edu/tedlab_website/researchpapers/dautriche2016wordform.pdf). *Cognitive Science*. doi: 10.1111/cogs.12453
+
+{% marginfigure assets/img/meta_plot.png 'Mahowald et al. "A meta-analysis of Syntactic Priming" analyzed 71 syntactic priming papers and found a robust effect of syntactic priming that was greatly magnified by lexical boost. This plot shows model coefficients for various moderators of the priming effect.' %} K. Mahowald, A. James, R. Futrell, E. Gibson. Submitted. [A meta-analysis of syntactic priming](assets/pdf/meta.pdf). *Journal of Memory and Language*, 91, 5-27.
+
+K. Mahowald, E. Fedorenko. 2016. [Reliable individual-level neural markers of highlevel language processing: A necessary precursor for relating neural variability to behavioral and genetic variability](assets/pdf/neuroimage.pdf). *Neuroimage*, 139, 74-93. doi: 10.1016/j.neuroimage.2016.05.073.
+
+I. Blank, E. Fedorenko, Z. Balewski, and K. Mahowald. 2016. Syntactic processing is distributed across the language network. *Neuroimage*, 127, 307-323.
+
+{% marginfigure assets/img/snap.png 'With SNAP Judgments, we show that small N experiments can be used to obtain quantitative linguistic data at low cost and with reliable results. This plot shows the distribution of effect sizes (which is large) for forced choice grammaticality judgments sampled from 100 examples in *Linguistic Inquiry*.' %}K. Mahowald, P. Graff, J. Hartman, and E. Gibson. [SNAP Judgments: A Small N Acceptability Paradigm (SNAP) for Linguistic Acceptability Judgments](assets/pdf/SNAP.pdf). *Language*, 92 (3), 619-635.
 
 R. Futrell, K. Mahowald, E. Gibson. 2015. [Large-Scale Evidence of Dependency Length Minimization in 37 Languages](assets/pdf/dep.pdf). *Proceedings of the National Academy of Sciences*. Published online before print August 3, 2015. doi: 10.1073/pnas.1502134112 {% sidenote 2 'See popular discussion in [Science Magazine](http://news.sciencemag.org/social-sciences/2015/08/all-languages-have-evolved-have-common) and on <br> [Reddit](https://www.reddit.com/r/science/comments/3g0vpk/mit_claims_to_have_found_a_language_universal/)' %}{% marginfigure assets/img/depling.png 'Futrell, Mahowald, Gibson (2015): The dependency lengths in natural languages are minimized relative to random baseline.' %}
 
@@ -57,6 +48,11 @@ K. Mahowald. 2012. [A Naive Bayes Classifier for Shakespeare’s second person p
 
 K. Mahowald. 2010. [It may nat be: Chaucer, Derrida, and the Impossibility of the Gift](assets/pdf/chaucer.pdf). *Studies in the Age of Chaucer*. 32:129-150.
 
+### In-progress articles
+
+K. Mahowald, P. Isola, E. Fedorenko, A. Oliva, E. Gibson. Submitted. An information-theoretic account of word memorability.
+
+K. Mahowald, T.J. O’Donnell, and J.B. Tenenbaum. Submitted. [Quantifying availability through linguistic productivity](assets/pdf/hangman_8_13_14.pdf).
 
 ### Conference Proceedings
 
