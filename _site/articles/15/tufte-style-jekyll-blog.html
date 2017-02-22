@@ -53,22 +53,23 @@
 
 <h3 id="color">Color</h3>
 
-<p>Although paper handouts obviously have a pure white background, the web is better served by the use of slightly off-white and off-black colors. I picked <code>#fffff8</code> and <code>#111111</code> because they are nearly indistinguishable from their ‘pure’ cousins, but dial down the harsh contrast. Tufte’s books are a study in spare, minimalist design. In his book <a href="http://www.edwardtufte.com/tufte/books_vdqi">The Visual Display of Quantitative Information</a>, he uses a red ink to add some visual punctuation to the buff colored paper and dark ink. In that spirit, links are styled using a similar red color.</p>
+<p>Although paper handouts obviously have a pure white background, the web is better served by the use of slightly off-white and off-black colors. I picked <code class="highlighter-rouge">#fffff8</code> and <code class="highlighter-rouge">#111111</code> because they are nearly indistinguishable from their ‘pure’ cousins, but dial down the harsh contrast. Tufte’s books are a study in spare, minimalist design. In his book <a href="http://www.edwardtufte.com/tufte/books_vdqi">The Visual Display of Quantitative Information</a>, he uses a red ink to add some visual punctuation to the buff colored paper and dark ink. In that spirit, links are styled using a similar red color.</p>
 
 <h3 id="headings">Headings</h3>
 
-<p>Tufte CSS styles headings <code>h1</code>, <code>h2</code>, and <code>h3</code>, making them nearly identical except for font size. The <code>h1</code> should be used as a title, the <code>h2</code>for section headings, and <code>h3</code> for subsection headings.</p>
+<p>Tufte CSS styles headings <code class="highlighter-rouge">h1</code>, <code class="highlighter-rouge">h2</code>, and <code class="highlighter-rouge">h3</code>, making them nearly identical except for font size. The <code class="highlighter-rouge">h1</code> should be used as a title, the <code class="highlighter-rouge">h2</code>for section headings, and <code class="highlighter-rouge">h3</code> for subsection headings.</p>
 
 <p>While this Jekyll theme supports more specific headings, if you feel the urge to reach for a heading of level 4 or higher, consider redesigning your document.</p>
 
 <p><span class="newthought">In his later books</span> <sup class="sidenote-number">2</sup><span class="sidenote"><sup class="sidenote-number">2</sup> <a href="http://www.edwardtufte.com/tufte/books_be">http://www.edwardtufte.com/tufte/books_be</a></span>, Tufte starts each section with a bit of vertical space, a non-indented paragraph, and sets the first few words of the sentence in small caps. To accomplish this using this style, enclose the sentence fragment you want styled with small caps in a custom Liquid tag called ‘newthought’ like so:</p>
 
-<pre><code>{% newthought 'In his later books' %}
-</code></pre>
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">newthought</span><span class="w"> </span><span class="err">'In</span><span class="w"> </span><span class="err">his</span><span class="w"> </span><span class="err">later</span><span class="w"> </span><span class="err">books'</span><span class="w"> </span><span class="err">%</span><span class="p">}</span><span class="w">
+</span></code></pre>
+</div>
 
 <h3 id="font">Font</h3>
 
-<p>In print, Tufte uses the proprietary Monotype Bembo<sup class="sidenote-number">3</sup><span class="sidenote"><sup class="sidenote-number">3</sup> <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000Vt">http://www.edwardtufte.com/bboard</a></span> font. Electronically he uses ETBembo, available under the MIT license through Edward Tufte, Adam Schwartz, and Marc Neuwirth’s <a href="https://github.com/edwardtufte/presenter"><em>Presenter</em></a> project. The Tufte Jekyll Theme CSS uses ETBembo through the use of <code>@font-face</code>.</p>
+<p>In print, Tufte uses the proprietary Monotype Bembo<sup class="sidenote-number">3</sup><span class="sidenote"><sup class="sidenote-number">3</sup> <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000Vt">http://www.edwardtufte.com/bboard</a></span> font. Electronically he uses ETBembo, available under the MIT license through Edward Tufte, Adam Schwartz, and Marc Neuwirth’s <a href="https://github.com/edwardtufte/presenter"><em>Presenter</em></a> project. The Tufte Jekyll Theme CSS uses ETBembo through the use of <code class="highlighter-rouge">@font-face</code>.</p>
 
 <p>Code snippets ape GitHub’s font selection using Microsoft’s <a href="http://www.microsoft.com/typography/ClearTypeFonts.mspx"><em>Consolas</em></a> and the sans-serif font uses Tufte’s choice of Gill Sans. Since this is not a free font, and some systems will not have it installed, the free google font <a href="https://www.google.com/fonts/specimen/Lato"><em>Lato</em></a> is designated as a fallback.</p>
 
@@ -76,9 +77,9 @@
 
 <h3 id="margin-figures">Margin Figures</h3>
 
-<p><span class="marginnote"><img class="fullwidth" src="/assets/img/figure1.png" />Figure 1: Sepal length vs. petal length, colored by species</span>Images and graphics play an integral role in Tufte’s work. To place figures in the margin, use the custom margin figure liquid tag included in the <code>_plugins</code> directory like so:</p>
+<p><span class="marginnote"><img class="fullwidth" src="/assets/img/figure1.png" />Figure 1: Sepal length vs. petal length, colored by species</span>Images and graphics play an integral role in Tufte’s work. To place figures in the margin, use the custom margin figure liquid tag included in the <code class="highlighter-rouge">_plugins</code> directory like so:</p>
 
-<p><code>{% marginfigure /assets/img/figure1.png 'Figure 1: Sepal length vs. petal length, colored by species'  %}</code>.</p>
+<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">marginfigure</span><span class="w"> </span><span class="err">/assets/img/figure1.png</span><span class="w"> </span><span class="err">'Figure</span><span class="w"> </span><span class="err">1:</span><span class="w"> </span><span class="err">Sepal</span><span class="w"> </span><span class="err">length</span><span class="w"> </span><span class="err">vs.</span><span class="w"> </span><span class="err">petal</span><span class="w"> </span><span class="err">length,</span><span class="w"> </span><span class="err">colored</span><span class="w"> </span><span class="err">by</span><span class="w"> </span><span class="err">species'</span><span class="w">  </span><span class="err">%</span><span class="p">}</span></code>.</p>
 
 <p>Note that the caption <em>must</em> be enclosed in quotes for the simple liquid tag to work!</p>
 
@@ -92,13 +93,13 @@
 
 <p>is written by enclosing a Mathjax expression with a <em>Liquid inline tag pair</em> (‘m’ and ‘em’) like so:</p>
 
-<p><code>When {% m %} a \ne 0{% em %}, there are two solutions to {% m %}ax^2 + bx + c = 0{% em %}</code></p>
+<p><code class="highlighter-rouge">When {% m %} a \ne 0{% em %}, there are two solutions to {% m %}ax^2 + bx + c = 0{% em %}</code></p>
 
 <p>Similarly, this block-level Mathjax expression: <script type="math/tex; mode=display">x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</script></p>
 
 <p>is written by enclosing the expression with a <em>Liquid block tag pair</em> (‘math’ and ‘endmath’) like so:</p>
 
-<p><code>{% math %}x = {-b \pm \sqrt{b^2-4ac} \over 2a}.{% endmath  %}</code></p>
+<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">math</span><span class="w"> </span><span class="err">%</span><span class="p">}</span><span class="err">x</span><span class="w"> </span><span class="err">=</span><span class="w"> </span><span class="p">{</span><span class="err">-b</span><span class="w"> </span><span class="err">\pm</span><span class="w"> </span><span class="err">\sqrt{b^2-4ac</span><span class="p">}</span><span class="w"> </span><span class="err">\over</span><span class="w"> </span><span class="mi">2</span><span class="err">a}.</span><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">endmath</span><span class="w">  </span><span class="err">%</span><span class="p">}</span></code></p>
 
 <p>You can get pretty fancy, for instance, the wave equation’s nabla is no big thing<script type="math/tex; mode=display">\frac{\partial^2 y}{\partial t^2}= c^2\nabla^2u</script></p>
 
@@ -108,20 +109,20 @@
 
 <p>If you need a full-width image or figure, another custom liquid tag is available to use. Oddly enough, it is named ‘fullwidth’, and this markup:</p>
 
-<p><code>{% fullwidth /assets/img/figure2.png 'Full width figure'  %}</code></p>
+<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">fullwidth</span><span class="w"> </span><span class="err">/assets/img/figure2.png</span><span class="w"> </span><span class="err">'Full</span><span class="w"> </span><span class="err">width</span><span class="w"> </span><span class="err">figure'</span><span class="w">  </span><span class="err">%</span><span class="p">}</span></code></p>
 
 <p>Yields this:</p>
 
 <div><img class="fullwidth" src="/assets/img/figure2.png" /></div>
 <p><span class="marginnote">Full width figure</span></p>
 
-<p><code>qplot(wt, mpg, data = mtcars, colour = factor(cyl) )</code></p>
+<p><code class="highlighter-rouge">qplot(wt, mpg, data = mtcars, colour = factor(cyl) )</code></p>
 
 <h3 id="main-column-figures">Main Column Figures</h3>
 
 <p>Besides margin and full width figures, you can of course also include figures constrained to the main column. Yes, you guessed it, a custom liquid tag rides to the rescue once again:</p>
 
-<p><code>{% maincolumn /assets/img/figure3.png 'This is a caption for the image to the left'  %}</code></p>
+<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">maincolumn</span><span class="w"> </span><span class="err">/assets/img/figure3.png</span><span class="w"> </span><span class="err">'This</span><span class="w"> </span><span class="err">is</span><span class="w"> </span><span class="err">a</span><span class="w"> </span><span class="err">caption</span><span class="w"> </span><span class="err">for</span><span class="w"> </span><span class="err">the</span><span class="w"> </span><span class="err">image</span><span class="w"> </span><span class="err">to</span><span class="w"> </span><span class="err">the</span><span class="w"> </span><span class="err">left'</span><span class="w">  </span><span class="err">%</span><span class="p">}</span></code></p>
 
 <p>yields this:</p>
 
@@ -135,21 +136,21 @@
 
 <h3 id="sidenotes">Sidenotes</h3>
 
-<p>Sidenotes<sup class="sidenote-number">3</sup><span class="sidenote"><sup class="sidenote-number">3</sup> This is a sidenote and <em>contains a superscript</em></span> contain a superscript. Right now, it is up to you to maintain the numbering system with these Liquid tags. Perhaps some clever person who takes a shine to this Jekyll theme will fork the repository and use some Ruby-fu and modify the <code>sidenote.rb</code> plugin to keep track of the numbering for you. But right now, a sidenote like the one here is created with the following markup in Markdown (what?):</p>
+<p>Sidenotes<sup class="sidenote-number">3</sup><span class="sidenote"><sup class="sidenote-number">3</sup> This is a sidenote and <em>contains a superscript</em></span> contain a superscript. Right now, it is up to you to maintain the numbering system with these Liquid tags. Perhaps some clever person who takes a shine to this Jekyll theme will fork the repository and use some Ruby-fu and modify the <code class="highlighter-rouge">sidenote.rb</code> plugin to keep track of the numbering for you. But right now, a sidenote like the one here is created with the following markup in Markdown (what?):</p>
 
-<p><code>{% sidenote 3 'This is a sidenote and *contains a superscript*'%}</code></p>
+<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">sidenote</span><span class="w"> </span><span class="err">3</span><span class="w"> </span><span class="err">'This</span><span class="w"> </span><span class="err">is</span><span class="w"> </span><span class="err">a</span><span class="w"> </span><span class="err">sidenote</span><span class="w"> </span><span class="err">and</span><span class="w"> </span><span class="err">*contains</span><span class="w"> </span><span class="err">a</span><span class="w"> </span><span class="err">superscript*'%</span><span class="p">}</span></code></p>
 
 <h3 id="margin-notes">Margin notes</h3>
 
 <p>Margin notes<span class="marginnote">This is a margin note <em>without</em> a superscript</span>  are similar to sidenotes, but do not contain a superscript. You can place anything you want in a margin note. Well, anything that is an inline element. Block level elements can make the Kramdown parser do strange things. Same sort of markup as a sidenote, but without a number involved:</p>
 
-<p><code>{% marginnote 'This is a margin note *without* a superscript' %}</code></p>
+<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">marginnote</span><span class="w"> </span><span class="err">'This</span><span class="w"> </span><span class="err">is</span><span class="w"> </span><span class="err">a</span><span class="w"> </span><span class="err">margin</span><span class="w"> </span><span class="err">note</span><span class="w"> </span><span class="err">*without*</span><span class="w"> </span><span class="err">a</span><span class="w"> </span><span class="err">superscript'</span><span class="w"> </span><span class="err">%</span><span class="p">}</span></code></p>
 
 <h2 id="tables">Tables</h2>
 
 <p>Tabular data is presented with right-aligned text and minimal grid lines. Table captions are placed inside a <em>marginnote</em> Liquid Tag above the table. Be careful to leave a blank line between the marginnote and the beginning of the table to avoid goofy shit happening during the parsing step.</p>
 
-<p>Of course, a table can be created using the usual html markup (<code>&lt;table&gt;&lt;thead&gt;&lt;tbody&lt;tr&gt;&lt;td&gt; etc..</code>)</p>
+<p>Of course, a table can be created using the usual html markup (<code class="highlighter-rouge">&lt;table&gt;&lt;thead&gt;&lt;tbody&lt;tr&gt;&lt;td&gt; etc..</code>)</p>
 
 <p><span class="marginnote">Table 1: first row of metcars</span></p>
 
@@ -241,24 +242,26 @@
 
 <p>Using the following markup(down):</p>
 
-<pre><code>|                 |mpg  | cyl  |  disp  |   hp   |  drat  | wt  |
+<div class="highlighter-rouge"><pre class="highlight"><code>|                 |mpg  | cyl  |  disp  |   hp   |  drat  | wt  |
 |----------------:|----:|-----:|-------:|-------:|-------:|----:|
 |Mazda RX4        |21   |6     |160     |110     |3.90    |2.62 |
 etc..
 </code></pre>
+</div>
 
 <h2 id="code">Code</h2>
 
-<p>Code samples use a monospace font using the ‘code’ class. The Kramdown parser has the ‘GFM’ option enabled, which stands for ‘Github Flavored Markdown’, and this means that both inline code such as <code>#include &lt;stdio.h&gt;</code> and blocks of code can be delimited by surrounding them with 3 backticks:</p>
+<p>Code samples use a monospace font using the ‘code’ class. The Kramdown parser has the ‘GFM’ option enabled, which stands for ‘Github Flavored Markdown’, and this means that both inline code such as <code class="highlighter-rouge">#include &lt;stdio.h&gt;</code> and blocks of code can be delimited by surrounding them with 3 backticks:</p>
 
-<pre><code>(map tufte-style all-the-things)
+<div class="highlighter-rouge"><pre class="highlight"><code>(map tufte-style all-the-things)
 </code></pre>
+</div>
 <p>is created by the following markup:</p>
 <pre><code>```(map tufte-style all-the-things)```</code></pre>
 
 <p>In theory, one should be able to append the language name right after the first three backticks and get some sexy code syntax highlighting, but for some reason, the only way I can make this work with the Kramdown and Rouge highlighting turned on is to enclose a block of code in the some Liquid tags. For instance, here is the Ruby code for one of the plugins included with this theme:</p>
 
-<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">module</span> <span class="nn">Jekyll</span>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">module</span> <span class="nn">Jekyll</span>
   <span class="k">class</span> <span class="nc">RenderFullWidthTag</span> <span class="o">&lt;</span> <span class="no">Liquid</span><span class="o">::</span><span class="no">Tag</span>
 <span class="nb">require</span> <span class="s2">"shellwords"</span>
 
@@ -274,16 +277,17 @@ etc..
   <span class="k">end</span>
 <span class="k">end</span>
 
-<span class="no">Liquid</span><span class="o">::</span><span class="no">Template</span><span class="p">.</span><span class="nf">register_tag</span><span class="p">(</span><span class="s1">'fullwidth'</span><span class="p">,</span> <span class="no">Jekyll</span><span class="o">::</span><span class="no">RenderFullWidthTag</span><span class="p">)</span></code></pre></div>
+<span class="no">Liquid</span><span class="o">::</span><span class="no">Template</span><span class="p">.</span><span class="nf">register_tag</span><span class="p">(</span><span class="s1">'fullwidth'</span><span class="p">,</span> <span class="no">Jekyll</span><span class="o">::</span><span class="no">RenderFullWidthTag</span><span class="p">)</span></code></pre></figure>
 
 <p>Which is created by surrounding the code with the <em>highlight</em> tag block pair:</p>
 
-<pre><code>{% highlight ruby %}
-module Jekyll 
-  blah, blah...
-Liquid::Template.register_tag('fullwidth', Jekyll::RenderFullWidthTag)
-{% endhighlight %}
-</code></pre>
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">highlight</span><span class="w"> </span><span class="err">ruby</span><span class="w"> </span><span class="err">%</span><span class="p">}</span><span class="w">
+</span><span class="err">module</span><span class="w"> </span><span class="err">Jekyll</span><span class="w"> 
+  </span><span class="err">blah,</span><span class="w"> </span><span class="err">blah...</span><span class="w">
+</span><span class="err">Liquid::Template.register_tag('fullwidth',</span><span class="w"> </span><span class="err">Jekyll::RenderFullWidthTag)</span><span class="w">
+</span><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">endhighlight</span><span class="w"> </span><span class="err">%</span><span class="p">}</span><span class="w">
+</span></code></pre>
+</div>
 <p>For some reason, the <em>linenos</em> tag modifier in the highlight tag totally screws up the code alignment, and I don’t feel like sorting it out at the moment. So either don’t use it, or figure it out and tell me what is going on so I can fix it.</p>
 
 
@@ -300,7 +304,7 @@ Liquid::Template.register_tag('fullwidth', Jekyll::RenderFullWidthTag)
       
   </ul>
 <div class="credits">
-<span>&copy; 2015 &nbsp;&nbsp;KYLE MAHOWALD</span></br> 
+<span>&copy; 2017 &nbsp;&nbsp;KYLE MAHOWALD</span></br> 
 <span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for Content-centric blogging </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
 </div>  
 </footer>
