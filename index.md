@@ -20,19 +20,19 @@ title:
 
 ### Published articles
 
-K. Mahowald*, I. Dautriche*, E. Gibson, S.T. Piantadosi. In press. Words cluster phonetically beyond phonotactic regularities. *Cognition*.
+I. Dautriche\*, K. Mahowald\*, E. Gibson, S.T. Piantadosi. In press. Words cluster phonetically beyond phonotactic regularities. *Cognition*.
 
-I. Dautriche, K. Mahowald, E. Gibson, S.T. Piantadosi. 2016. [Wordform
+I. Dautriche, K. Mahowald, E. Gibson, S.T. Piantadosi. 2017. [Wordform
 similarity increases with semantic similarity: an analysis of 100
 languages](http://tedlab.mit.edu/tedlab_website/researchpapers/dautriche2016wordform.pdf). *Cognitive Science*. doi: 10.1111/cogs.12453
 
-{% marginfigure assets/img/meta_plot.png 'Mahowald et al. "A meta-analysis of Syntactic Priming" analyzed 71 syntactic priming papers and found a robust effect of syntactic priming that was greatly magnified by lexical boost. This plot shows model coefficients for various moderators of the priming effect.' %} K. Mahowald, A. James, R. Futrell, E. Gibson. Submitted. [A meta-analysis of syntactic priming](assets/pdf/meta.pdf). *Journal of Memory and Language*, 91, 5-27.
+{% marginfigure assets/img/meta_plot.png 'Mahowald et al. "A meta-analysis of Syntactic Priming" analyzed 71 syntactic priming papers and found a robust effect of syntactic priming that was greatly magnified by lexical boost. This plot shows model coefficients for various moderators of the priming effect.' %} K. Mahowald, A. James, R. Futrell, E. Gibson. 2016. [A meta-analysis of syntactic priming](assets/pdf/meta.pdf). *Journal of Memory and Language*, 91, 5-27.
 
-K. Mahowald, E. Fedorenko. 2016. [Reliable individual-level neural markers of highlevel language processing: A necessary precursor for relating neural variability to behavioral and genetic variability](assets/pdf/neuroimage.pdf). *Neuroimage*, 139, 74-93. doi: 10.1016/j.neuroimage.2016.05.073.
+K. Mahowald, E. Fedorenko. 2016. [Reliable individual-level neural markers of highlevel language processing: A necessary precursor for relating neural variability to behavioral and genetic variability](assets/pdf/neuroimage.pdf). 2016. *Neuroimage*, 139, 74-93. doi: 10.1016/j.neuroimage.2016.05.073.
 
 I. Blank, E. Fedorenko, Z. Balewski, and K. Mahowald. 2016. Syntactic processing is distributed across the language network. *Neuroimage*, 127, 307-323.
 
-{% marginfigure assets/img/snap.png 'With SNAP Judgments, we show that small N experiments can be used to obtain quantitative linguistic data at low cost and with reliable results. This plot shows the distribution of effect sizes (which is large) for forced choice grammaticality judgments sampled from 100 examples in *Linguistic Inquiry*.' %}K. Mahowald, P. Graff, J. Hartman, and E. Gibson. [SNAP Judgments: A Small N Acceptability Paradigm (SNAP) for Linguistic Acceptability Judgments](assets/pdf/SNAP.pdf). *Language*, 92 (3), 619-635.
+{% marginfigure assets/img/snap.png 'With SNAP Judgments, we show that small N experiments can be used to obtain quantitative linguistic data at low cost and with reliable results. This plot shows the distribution of effect sizes (which is large) for forced choice grammaticality judgments sampled from 100 examples in *Linguistic Inquiry*.' %}K. Mahowald, P. Graff, J. Hartman, and E. Gibson. 2016. [SNAP Judgments: A Small N Acceptability Paradigm (SNAP) for Linguistic Acceptability Judgments](assets/pdf/SNAP.pdf). *Language*, 92 (3), 619-635.
 
 R. Futrell, K. Mahowald, E. Gibson. 2015. [Large-Scale Evidence of Dependency Length Minimization in 37 Languages](assets/pdf/dep.pdf). *Proceedings of the National Academy of Sciences*. Published online before print August 3, 2015. doi: 10.1073/pnas.1502134112 {% sidenote 2 'See popular discussion in [Science Magazine](http://news.sciencemag.org/social-sciences/2015/08/all-languages-have-evolved-have-common) and on <br> [Reddit](https://www.reddit.com/r/science/comments/3g0vpk/mit_claims_to_have_found_a_language_universal/)' %}{% marginfigure assets/img/depling.png 'Futrell, Mahowald, Gibson (2015): The dependency lengths in natural languages are minimized relative to random baseline.' %}
 
