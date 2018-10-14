@@ -20,7 +20,15 @@ title:
 
 ### Published articles
 
-I. Dautriche\*, K. Mahowald\*, E. Gibson, S.T. Piantadosi. In press. Words cluster phonetically beyond phonotactic regularities. *Cognition*.
+K. Mahowald, I. Dautriche, E. Gibson, S.T. Piantadosi. 2018. [Word Forms Are Structured for Efficient Use](http://tedlab.mit.edu/tedlab_website/researchpapers/mahowald%20et%20al%202018.pdf). *Cognitive Science*.
+
+Z. Mineroff, I. Blank, K. Mahowald, E. Fedorenko. 2018. A robust dissociation among the language, multiple demand, and default mode networks: evidence from inter-region correlations in effect size. *Neuropsychologia*.
+
+E. Gibson, R. Futrell, J. Jara-Ettinger, K. Mahowald, S. Ratnasingam, M. Gibson, S.T Piantadosi, B.R. Conway. 2017. Color naming across languages reflects color use. *PNAS*. 114 (40), 10785-10790.
+
+Gibson, E., Tan, C., Futrell, R., Mahowald, K., Konieczny, L., Hemforth, B., Fedorenko, E. 2017. Don’t underestimate the benefits of being misunderstood. *Psychological science*, 28(6), 703-712.
+
+I. Dautriche\*, K. Mahowald\*, E. Gibson, S.T. Piantadosi. 2017. Words cluster phonetically beyond phonotactic regularities. *Cognition*, 163, 128-145.
 
 I. Dautriche, K. Mahowald, E. Gibson, S.T. Piantadosi. 2017. [Wordform
 similarity increases with semantic similarity: an analysis of 100
