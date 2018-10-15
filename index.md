@@ -20,11 +20,11 @@ title:
 
 ### Published articles
 
-{% marginfigure assets/img/corr-freq.png 'Mahowald et al. "Word Forms Are Structured for Efficient" showed a robust correlation, across almost 100 world languages, between orthographic probability and word frequency.' %} K. Mahowald, I. Dautriche, E. Gibson, S.T. Piantadosi. 2018. [Word Forms Are Structured for Efficient Use](http://tedlab.mit.edu/tedlab_website/researchpapers/mahowald%20et%20al%202018.pdf). *Cognitive Science*.
+{% marginfigure assets/img/cor_freq_phon.png 'Mahowald et al. "Word Forms Are Structured for Efficient" showed a robust correlation, across almost 100 world languages, between orthographic probability and word frequency.' %} K. Mahowald, I. Dautriche, E. Gibson, S.T. Piantadosi. 2018. [Word Forms Are Structured for Efficient Use](http://tedlab.mit.edu/tedlab_website/researchpapers/mahowald%20et%20al%202018.pdf). *Cognitive Science*.
 
 Z. Mineroff, I. Blank, K. Mahowald, E. Fedorenko. 2018. A robust dissociation among the language, multiple demand, and default mode networks: evidence from inter-region correlations in effect size. *Neuropsychologia*.
 
-E. Gibson, R. Futrell, J. Jara-Ettinger, K. Mahowald, S. Ratnasingam, M. Gibson, S.T Piantadosi, B.R. Conway. 2017. [Color naming across languages reflects color use](http://tedlab.mit.edu/tedlab_website/researchpapers/gibson2017color.pdf). *PNAS*. 114 (40), 10785-10790.
+{% marginfigure assets/img/color_paper.png 'Gibson et al. "Color naming across languages reflects color use" found that the information content of world color systems varied by language, but in all cases warm colors tended to be more information-rich than cool colors. In this plot, langauges are ordered by informativity of color system.' %} E. Gibson, R. Futrell, J. Jara-Ettinger, K. Mahowald, S. Ratnasingam, M. Gibson, S.T Piantadosi, B.R. Conway. 2017. [Color naming across languages reflects color use](http://tedlab.mit.edu/tedlab_website/researchpapers/gibson2017color.pdf). *PNAS*. 114 (40), 10785-10790.
 
 Gibson, E., Tan, C., Futrell, R., Mahowald, K., Konieczny, L., Hemforth, B., Fedorenko, E. 2017. Don’t underestimate the benefits of being misunderstood. *Psychological science*, 28(6), 703-712.
 
