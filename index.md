@@ -20,7 +20,7 @@ title:
 
 ### Published articles
 
-K. Mahowald, I. Dautriche, E. Gibson, S.T. Piantadosi. 2018. [Word Forms Are Structured for Efficient Use](http://tedlab.mit.edu/tedlab_website/researchpapers/mahowald%20et%20al%202018.pdf). *Cognitive Science*.
+{% marginfigure assets/img/corr-freq.png 'Mahowald et al. "Word Forms Are Structured for Efficient" showed a robust correlation, across almost 100 world languages, between orthographic probability and word frequency.' %} K. Mahowald, I. Dautriche, E. Gibson, S.T. Piantadosi. 2018. [Word Forms Are Structured for Efficient Use](http://tedlab.mit.edu/tedlab_website/researchpapers/mahowald%20et%20al%202018.pdf). *Cognitive Science*.
 
 Z. Mineroff, I. Blank, K. Mahowald, E. Fedorenko. 2018. A robust dissociation among the language, multiple demand, and default mode networks: evidence from inter-region correlations in effect size. *Neuropsychologia*.
 
