@@ -16,7 +16,7 @@ title:
 
 ### Research
 
-{% newthought 'I am interested'%} in the structure of the lexicons of world languages (i.e., why we have the words we have instead of some other set of words), the relationship between communicative efficiency and natural language, historical English, language neuroimaging, literature, and the interplay between language and literature. I also have interests in quantitative methods in language research and psychology more generally.
+{% newthought 'I am interested'%} in the cognitive and computational structure of the lexicons of world languages, NLP, the relationship between communicative efficiency and natural language, historical English, language neuroimaging, and the interplay between language and literature. I also have interests in quantitative methods in language research and psychology more generally.
 
 ### Published articles
 
