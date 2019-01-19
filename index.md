@@ -111,3 +111,5 @@ K. Mahowald, S.T. Piantadosi, E. Gibson. 2013. [Lexical clustering in efficient 
 [Ariel James](http://www.psychology.illinois.edu/people/anjames2)
 [Phillip Isola](web.mit.edu/phillipi/)
 
+### One-off links
+[Ngram survey][https://goo.gl/forms/R4Iq1b7GCdumQEM03]
