@@ -112,4 +112,4 @@ K. Mahowald, S.T. Piantadosi, E. Gibson. 2013. [Lexical clustering in efficient 
 [Phillip Isola](web.mit.edu/phillipi/)
 
 ### One-off links
-[Ngram survey][https://goo.gl/forms/R4Iq1b7GCdumQEM03]
+[Ngram survey](https://goo.gl/forms/R4Iq1b7GCdumQEM03)
