@@ -2,17 +2,17 @@
 layout: post
 title:
 ---
-{% marginfigure assets/img/km_3.png '' %}
+{% marginfigure assets/img/kylefogo.png '' %}
 
 <h1 class="content-listing-header sans">Kyle Mahowald</h1>
-<a href="mailto:kylemaho@mit.edu"> kylemaho@mit.edu  </a>
+<a href="mailto:kmahowald@gmail.com"> kmahowald@gmail.com  </a>
 <!--
  <a href="http://www.twitter.edu/kmahowald"><span class="icon-twitter"></span></a> [@kmahowald]("http://www.twitter.edu/kmahowald")
  -->
 
 ### About me
 
-{% newthought 'I graduated from'%} [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
+{% newthought 'I am a postdoctoral researcher'%} in computer science and linguistics at Stanford University, working with Dan Jurafsky[https://web.stanford.edu/~jurafsky/] and Dan McFarland[https://ed.stanford.edu/faculty/mcfarland]. I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
 
 ### Research
 
@@ -20,9 +20,11 @@ title:
 
 ### Published articles
 
+E. Gibson, R. Futrell, S.T. Piantadosi, I. Dautriche, K. Mahowald, L. Bergen, R. Levy. 2019. [How efficiency shapes human language](http://colala.berkeley.edu/papers/gibson2019how.pdf). *Trends in Cognitive Science*
+
 {% marginfigure assets/img/cor_freq_phon.png 'Mahowald et al. "Word Forms Are Structured for Efficient" showed a robust correlation, across almost 100 world languages, between orthographic probability and word frequency.' %} K. Mahowald, I. Dautriche, E. Gibson, S.T. Piantadosi. 2018. [Word Forms Are Structured for Efficient Use](http://tedlab.mit.edu/tedlab_website/researchpapers/mahowald%20et%20al%202018.pdf). *Cognitive Science*.
 
-Z. Mineroff, I. Blank, K. Mahowald, E. Fedorenko. 2018. A robust dissociation among the language, multiple demand, and default mode networks: evidence from inter-region correlations in effect size. *Neuropsychologia*.
+Z. Mineroff, I. Blank, K. Mahowald, E. Fedorenko. 2018. A robust dissociation among the language, multiple demand, and default mode networks: evidence from inter-region correlations in effect size. *Neuropsychologia*, 119, 501-511.
 
 {% marginfigure assets/img/color_paper.png 'Gibson et al. "Color naming across languages reflects color use" found that the information content of world color systems varied by language, but in all cases warm colors tended to be more information-rich than cool colors. In this plot, langauges are ordered by informativity of color system.' %} E. Gibson, R. Futrell, J. Jara-Ettinger, K. Mahowald, S. Ratnasingam, M. Gibson, S.T Piantadosi, B.R. Conway. 2017. [Color naming across languages reflects color use](http://tedlab.mit.edu/tedlab_website/researchpapers/gibson2017color.pdf). *PNAS*. 114 (40), 10785-10790.
 
@@ -35,6 +37,8 @@ similarity increases with semantic similarity: an analysis of 100
 languages](http://tedlab.mit.edu/tedlab_website/researchpapers/dautriche2016wordform.pdf). *Cognitive Science*. doi: 10.1111/cogs.12453
 
 {% marginfigure assets/img/meta_plot.png 'Mahowald et al. "A meta-analysis of Syntactic Priming" analyzed 71 syntactic priming papers and found a robust effect of syntactic priming that was greatly magnified by lexical boost. This plot shows model coefficients for various moderators of the priming effect.' %} K. Mahowald, A. James, R. Futrell, E. Gibson. 2016. [A meta-analysis of syntactic priming](assets/pdf/meta.pdf). *Journal of Memory and Language*, 91, 5-27.
+
+K. Mahowald, A. James, R. Futrell, E. Gibson. 2017. Structural priming is most useful when the conclusions are statistically robust. *Behavioral and Brain Sciences*, 40.
 
 K. Mahowald, E. Fedorenko. 2016. [Reliable individual-level neural markers of highlevel language processing: A necessary precursor for relating neural variability to behavioral and genetic variability](assets/pdf/neuroimage.pdf). 2016. *Neuroimage*, 139, 74-93. doi: 10.1016/j.neuroimage.2016.05.073.
 
