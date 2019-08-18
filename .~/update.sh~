@@ -1,0 +1,2 @@
+git add -f *
+git commit -m "updated site"
