@@ -2,7 +2,7 @@
 layout: post
 title:
 ---
-{% marginfigure assets/img/kylefogo.png '' %}
+{% newthought assets/img/kylefogo.png '' %}
 
 <h1 class="content-listing-header sans">Kyle Mahowald</h1>
 <a href="mailto:kmahowald@gmail.com"> kmahowald@gmail.com  </a>
