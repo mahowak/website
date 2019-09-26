@@ -16,7 +16,7 @@ title:
 
 ### Research
 
-{% newthought'I am interested'%} in relationship between communicative efficiency and natural language, computational cognitive science, the application of computational methods to basic questions in cognitive psychology and linguistic typology, fairness in academic publishing, historical English, and language neuroimaging. I also have interests in quantitative methods in the sciences, geared towards making science more robust, open, and equitable. My postdoctoral work, in part, focuses on using NLP methods applied to corpora of academic papers in order to study language change as well as the social and sociolinguistic dynamics and biases that affect publication. 
+{% newthought'I work'%} broadly on the topic of human communication. Specifically, I am interested in the relationship between communicative efficiency and natural language, computational cognitive science, the application of computational methods to basic questions in cognitive psychology and linguistic typology, historical English, and language neuroimaging. I also have interests in quantitative methods in the sciences, geared towards making science more robust, open, and equitable. My postdoctoral work, in part, focuses on using NLP methods applied to corpora of academic papers in order to study language change as well as the social and sociolinguistic dynamics and biases that affect publication. 
 
 ### Published articles
 
