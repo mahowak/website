@@ -1,8 +1,9 @@
+
 ---
 layout: post
 title:
 ---
-{% maincolumn assets/img/kylefogo.png '' %}
+{% maincolumn assets/img/kylefogo2.png '' %}
 
 <h1 class="content-listing-header sans">Kyle Mahowald</h1>
 <a href="mailto:kmahowald@gmail.com"> kmahowald@gmail.com  </a>
