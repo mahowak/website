@@ -5,12 +5,12 @@ title:
 {% maincolumn assets/img/kylefogo2.png '' %}
 
 <h1 class="content-listing-header sans">Kyle Mahowald</h1>
-<a href="mailto:kmahowald@gmail.com"> kmahowald@gmail.com  </a>
+<a href="mailto:kmahowald@gmail.com"> kmahowald@gmail.com</a>
 <!--
  <a href="http://www.twitter.edu/kmahowald"><span class="icon-twitter"></span></a> [@kmahowald]("http://www.twitter.edu/kmahowald")
  -->
 
-### About me
+### About me (him)
 
 {% newthought 'I am a postdoctoral researcher'%} in computer science and linguistics at Stanford University, working with [Dan Jurafsky](https://web.stanford.edu/~jurafsky/) and [Dan McFarland](https://ed.stanford.edu/faculty/mcfarland). I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
 
