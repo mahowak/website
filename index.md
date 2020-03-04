@@ -20,7 +20,10 @@ title:
 
 ### Published articles
 
-E. Gibson, R. Futrell, S.T. Piantadosi, I. Dautriche, K. Mahowald, L. Bergen, R. Levy. 2019. [How efficiency shapes human language](http://colala.berkeley.edu/papers/gibson2019how.pdf). *Trends in Cognitive Science*
+K. Mahowald, G. Kachergis, M.C. Frank. 2020. [What counts as an
+  exemplar model, anyway? A commentary on Ambridge (2020)](https://psyarxiv.com/ut86f/). *First Language*.
+
+E. Gibson, R. Futrell, S.T. Piantadosi, I. Dautriche, K. Mahowald, L. Bergen, R. Levy. 2019. [How efficiency shapes human language](http://colala.berkeley.edu/papers/gibson2019how.pdf). *Trends in Cognitive Science*.
 
 {% marginfigure assets/img/cor_freq_phon.png 'Mahowald et al. "Word Forms Are Structured for Efficient" showed a robust correlation, across almost 100 world languages, between orthographic probability and word frequency.' %} K. Mahowald, I. Dautriche, E. Gibson, S.T. Piantadosi. 2018. [Word Forms Are Structured for Efficient Use](http://tedlab.mit.edu/tedlab_website/researchpapers/mahowald%20et%20al%202018.pdf). *Cognitive Science*.
 
